@@ -1,5 +1,5 @@
-# Design-Inclusivity
-zz
+# Design-Inclusivity Departmental Society
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
