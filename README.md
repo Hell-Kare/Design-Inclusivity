@@ -1,6 +1,9 @@
 # Design-Inclusivity Departmental Society
+Design Inclusivity is the approach of creating products, experiences, and systems that are usable and welcoming for people of all identities, abilities, and backgrounds. It ensures no one is left out of the design experience — whether in fashion, digital design, or physical spaces.
+In essence:
 
-<!DOCTYPE html>
+Designing for everyone, not just the majority.
+It’s where creativity meets empathy.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
